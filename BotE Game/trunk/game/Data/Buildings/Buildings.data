@@ -33254,13 +33254,13 @@ han_b120.bop
 -25
 0
 -25
--50
--50
--50
--50
--50
--50
 0
+0
+0
+0
+0
+0
+-50
 -25
 0
 0
@@ -70841,7 +70841,7 @@ car_2331.bop
 507
 5
 Typ 7 Fusionskraftwerk
-Type 8 Fusion Plant
+Type 7 Fusion Plant
 Wasserstoff-Fusion ist die Urkraft, die Sonnen am Brennen erhält. Diese Kraft macht sich das Fusionskraftwerk zunutze. So lange die Reaktion kontrolliert abläuft, dient sie als ständiger Lieferant für Hitze, die wiederum leicht in andere Energieformen umgewandelt werden kann.
 Hydrogen fusion is the primal force that keeps the stars burning, and its power is harnessed by the Fusion Plant. As long as the reaction is controlled, it provides a steady source of heat, which can be converted easily to other forms of energy.
 0
@@ -86381,9 +86381,9 @@ ome_1322.bop
 618
 6
 Typ 1 Plasmareaktor
-Type 1 Fusion Plant
+Type 1 Plasma Reactor
 Bei Vorhandensein von Kontinuum-Plasma wird Wasserstoff vollständig und wirkungsvoll in Energie umgewandelt. Der Plasma-Reaktor verwendet eine geschlossene Blase mit Kontinuum-Plasma als Katalysator und wandelt Wasserstoff in Energie um - viel effizienter als ein einfacher Fusions-Reaktor.
-Hydrogen fusion is the primal force that keeps the stars burning, and its power is harnessed by the Fusion Plant. As long as the reaction is controlled, it provides a steady source of heat, which can be converted easily to other forms of energy.
+In the presence of continuum plasma, hydrogen is converted completely and efficiently to energy. The Plasma Reactor uses a fully contained bubble of continuum plasma as a catalyst, and converts hydrogen to energy more efficiently than a simple fusion reactor.
 1
 ome_2331.bop
 0
@@ -86521,9 +86521,9 @@ ome_2331.bop
 619
 6
 Typ 2 Plasmareaktor
-Type 2 Fusion Plant
+Type 2 Plasma Reactor
 Bei Vorhandensein von Kontinuum-Plasma wird Wasserstoff vollständig und wirkungsvoll in Energie umgewandelt. Der Plasma-Reaktor verwendet eine geschlossene Blase mit Kontinuum-Plasma als Katalysator und wandelt Wasserstoff in Energie um - viel effizienter als ein einfacher Fusions-Reaktor.
-Hydrogen fusion is the primal force that keeps the stars burning, and its power is harnessed by the Fusion Plant. As long as the reaction is controlled, it provides a steady source of heat, which can be converted easily to other forms of energy.
+In the presence of continuum plasma, hydrogen is converted completely and efficiently to energy. The Plasma Reactor uses a fully contained bubble of continuum plasma as a catalyst, and converts hydrogen to energy more efficiently than a simple fusion reactor.
 1
 ome_2331.bop
 0
@@ -86661,9 +86661,9 @@ ome_2331.bop
 620
 6
 Typ 3 Plasmareaktor
-Type 3 Fusion Plant
+Type 3 Plasma Reaktor
 Bei Vorhandensein von Kontinuum-Plasma wird Wasserstoff vollständig und wirkungsvoll in Energie umgewandelt. Der Plasma-Reaktor verwendet eine geschlossene Blase mit Kontinuum-Plasma als Katalysator und wandelt Wasserstoff in Energie um - viel effizienter als ein einfacher Fusions-Reaktor.
-Hydrogen fusion is the primal force that keeps the stars burning, and its power is harnessed by the Fusion Plant. As long as the reaction is controlled, it provides a steady source of heat, which can be converted easily to other forms of energy.
+In the presence of continuum plasma, hydrogen is converted completely and efficiently to energy. The Plasma Reactor uses a fully contained bubble of continuum plasma as a catalyst, and converts hydrogen to energy more efficiently than a simple fusion reactor.
 1
 ome_2331.bop
 0
@@ -86801,9 +86801,9 @@ ome_2331.bop
 621
 6
 Typ 4 Plasmareaktor
-Type 4 Fusion Plant
+Type 4 Plasma Reaktor
 Bei Vorhandensein von Kontinuum-Plasma wird Wasserstoff vollständig und wirkungsvoll in Energie umgewandelt. Der Plasma-Reaktor verwendet eine geschlossene Blase mit Kontinuum-Plasma als Katalysator und wandelt Wasserstoff in Energie um - viel effizienter als ein einfacher Fusions-Reaktor.
-Hydrogen fusion is the primal force that keeps the stars burning, and its power is harnessed by the Fusion Plant. As long as the reaction is controlled, it provides a steady source of heat, which can be converted easily to other forms of energy.
+In the presence of continuum plasma, hydrogen is converted completely and efficiently to energy. The Plasma Reactor uses a fully contained bubble of continuum plasma as a catalyst, and converts hydrogen to energy more efficiently than a simple fusion reactor.
 1
 ome_2331.bop
 0
@@ -86941,9 +86941,9 @@ ome_2331.bop
 622
 6
 Typ 5 Plasmareaktor
-Type 5 Fusion Plant
+Type 5 Plasma Reactor
 Bei Vorhandensein von Kontinuum-Plasma wird Wasserstoff vollständig und wirkungsvoll in Energie umgewandelt. Der Plasma-Reaktor verwendet eine geschlossene Blase mit Kontinuum-Plasma als Katalysator und wandelt Wasserstoff in Energie um - viel effizienter als ein einfacher Fusions-Reaktor.
-Hydrogen fusion is the primal force that keeps the stars burning, and its power is harnessed by the Fusion Plant. As long as the reaction is controlled, it provides a steady source of heat, which can be converted easily to other forms of energy.
+In the presence of continuum plasma, hydrogen is converted completely and efficiently to energy. The Plasma Reactor uses a fully contained bubble of continuum plasma as a catalyst, and converts hydrogen to energy more efficiently than a simple fusion reactor.
 1
 ome_2331.bop
 0
@@ -87081,9 +87081,9 @@ ome_2331.bop
 623
 6
 Typ 6 Plasmareaktor
-Type 6 Fusion Plant
+Type 6 Plasma Reactor
 Bei Vorhandensein von Kontinuum-Plasma wird Wasserstoff vollständig und wirkungsvoll in Energie umgewandelt. Der Plasma-Reaktor verwendet eine geschlossene Blase mit Kontinuum-Plasma als Katalysator und wandelt Wasserstoff in Energie um - viel effizienter als ein einfacher Fusions-Reaktor.
-Hydrogen fusion is the primal force that keeps the stars burning, and its power is harnessed by the Fusion Plant. As long as the reaction is controlled, it provides a steady source of heat, which can be converted easily to other forms of energy.
+In the presence of continuum plasma, hydrogen is converted completely and efficiently to energy. The Plasma Reactor uses a fully contained bubble of continuum plasma as a catalyst, and converts hydrogen to energy more efficiently than a simple fusion reactor.
 1
 ome_2331.bop
 0
@@ -87221,9 +87221,9 @@ ome_2331.bop
 624
 6
 Typ 7 Plasmareaktor
-Type 7 Fusion Plant
+Type 7 Plasma Reactor
 Bei Vorhandensein von Kontinuum-Plasma wird Wasserstoff vollständig und wirkungsvoll in Energie umgewandelt. Der Plasma-Reaktor verwendet eine geschlossene Blase mit Kontinuum-Plasma als Katalysator und wandelt Wasserstoff in Energie um - viel effizienter als ein einfacher Fusions-Reaktor.
-Hydrogen fusion is the primal force that keeps the stars burning, and its power is harnessed by the Fusion Plant. As long as the reaction is controlled, it provides a steady source of heat, which can be converted easily to other forms of energy.
+In the presence of continuum plasma, hydrogen is converted completely and efficiently to energy. The Plasma Reactor uses a fully contained bubble of continuum plasma as a catalyst, and converts hydrogen to energy more efficiently than a simple fusion reactor.
 0
 ome_2331.bop
 0
